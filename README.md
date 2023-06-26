@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Avinash Uchadiya👋
 
 <!--
 **uchadiya00002/uchadiya00002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me:
+🌱 I'm currently working on MERN Stack
+💯A passionate Frontend Developer from India
+📨 Connect with me: avinashuchadiya786@gmail.com
