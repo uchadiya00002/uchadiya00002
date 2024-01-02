@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://avinashuchadiya.vercel.app](https://avinashuchadiya.vercel.app)
+- 👨‍💻 Visit my portfolio [https://avinashuchadiya.vercel.app](https://avinashuchadiya.vercel.app)
 
 - 💬 Ask me about **Javascript, React.Js, Next.Js**
 
