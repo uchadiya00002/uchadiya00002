@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" />, I'm Avinash Uchadiya</h1>
 
-<h3 align="center">
-Creative and results-driven <b>Full Stack Developer</b> with 3+ years of experience building modern, user-focused web applications.<br>
-Skilled at transforming complex ideas into elegant, high-performance solutions using JavaScript frameworks.<br>
-Known for blending clean design with practical problem-solving, collaborating seamlessly with teams, and delivering impact across the full development lifecycle.
-</h3>
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="GitHub Banner" width="100%"/>
