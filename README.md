@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Avinash Uchadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchadiya00002&label=Profile%20views&color=0e75b6&style=flat" alt="uchadiya00002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uchadiya00002" alt="uchadiya00002" /></a> </p>
