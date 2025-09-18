@@ -18,14 +18,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=uchadiya00002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-    height="160" alt="stats graph" 
-  />&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=uchadiya00002&theme=tokyonight&hide_border=false" 
-    height="160" alt="streak graph" 
-  />&nbsp;&nbsp;
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=uchadiya00002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200" 
+  height="160" alt="" 
+/>
+&nbsp;&nbsp;
+<!-- <img 
+  src="https://streak-stats.demolab.com?user=uchadiya00002&theme=tokyonight&hide_border=false" 
+  height="160" alt="streak graph" 
+/>&nbsp;&nbsp; -->
   <img  
     src="https://github-readme-stats.vercel.app/api/top-langs?username=uchadiya00002&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact"  
     height="160" alt="top languages" 
